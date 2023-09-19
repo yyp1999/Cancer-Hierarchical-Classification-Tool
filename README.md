@@ -6,6 +6,6 @@ In this study, the UPGMA unsupervised clustering algorithm was first used to rev
 
 ## Run
 ```
-run CHCT.ipynb
+  run CHCT.ipynb
 ```
 Sample data is provided in `data/`
